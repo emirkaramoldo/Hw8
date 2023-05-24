@@ -1,5 +1,7 @@
+package kg.geeks.hw8.logic;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        RPG_Game.startGame();
     }
 }
